@@ -1,0 +1,1 @@
+This is one of my projects in the way to achieve "Relational Database" certification at freeCodeCamp.org. For this project, I have built a Bash script to get information about chemical elements from a periodic table database.
